@@ -1,0 +1,4 @@
+"devDependencies": {
+  "cypress": "^13.16.1",  // or the latest version you're using
+  "@badeball/cypress-cucumber-preprocessor": "^6.0.0"  // Ensure this version is compatible
+}
