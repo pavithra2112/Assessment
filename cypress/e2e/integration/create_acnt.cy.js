@@ -8,10 +8,10 @@ Given('I am on the registration page', () => {
 
 When('I fill in the registration form with valid data', () => {
   const userData = {
-    firstName: 'John',
-    lastName: 'Doe',
-    email: 'johndoe@example.com',
-    password: 'Password123'
+    firstName: 'Pavithra',
+    lastName: 'Narayanan',
+    email: 'pavithranarayanan2112@gmail.com',
+    password: 'Password@123'
   };
   RegistrationPage.fillRegistrationForm(userData);
 });
